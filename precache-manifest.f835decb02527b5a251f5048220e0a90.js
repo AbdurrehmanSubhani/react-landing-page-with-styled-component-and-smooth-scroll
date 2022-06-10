@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "600af774440c117ae60270c68e8487b2",
+    "revision": "e0cce9c70f2367ac1ced0ffb99c6dde4",
     "url": "/getdeepdub/index.html"
   },
   {
-    "revision": "3b525387ea4a062f7b85",
+    "revision": "07e2553ea6f4d8626b86",
     "url": "/getdeepdub/static/css/main.f1dc5e3c.chunk.css"
   },
   {
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/getdeepdub/static/js/2.e4a85a13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b525387ea4a062f7b85",
-    "url": "/getdeepdub/static/js/main.dace2478.chunk.js"
+    "revision": "07e2553ea6f4d8626b86",
+    "url": "/getdeepdub/static/js/main.342c1486.chunk.js"
   },
   {
     "revision": "37c52069883078ef6ff3",
     "url": "/getdeepdub/static/js/runtime-main.e0a33f2b.js"
+  },
+  {
+    "revision": "e4901b9971ce310e49ea29d51b3b2f76",
+    "url": "/getdeepdub/static/media/calling.e4901b99.png"
+  },
+  {
+    "revision": "be01e1d41ec8cd1094dcc578aa7ac45e",
+    "url": "/getdeepdub/static/media/film-icon.be01e1d4.jpeg"
   },
   {
     "revision": "50b81502344e636988522d9990379c4e",
@@ -36,16 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/getdeepdub/static/media/svg-3.c1c40e5c.svg"
   },
   {
-    "revision": "715313cd4f8b7b826663309b8751bb6b",
-    "url": "/getdeepdub/static/media/svg-4.715313cd.svg"
-  },
-  {
-    "revision": "d9e440a5ed9283a035d51b4cb93663f0",
-    "url": "/getdeepdub/static/media/svg-5.d9e440a5.svg"
-  },
-  {
-    "revision": "1dbb6f109f64dd591c9d154e757736e1",
-    "url": "/getdeepdub/static/media/svg-6.1dbb6f10.svg"
+    "revision": "620aaf437d90d97b12b63f36242f2295",
+    "url": "/getdeepdub/static/media/tv-anchor.620aaf43.webp"
   },
   {
     "revision": "f9b80de400808aea67a7c9076691fada",
