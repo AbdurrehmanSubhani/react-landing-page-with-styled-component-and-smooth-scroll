@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "409d1c06d6e7207771c1a4ad84ac2b70",
+    "revision": "e8b5a6958f6f468ea30c44bee2fa8c0f",
     "url": "/getdeepdub/index.html"
   },
   {
-    "revision": "34dfbb2e14cbb55a69d6",
+    "revision": "fc63040429c867d58504",
     "url": "/getdeepdub/static/css/main.1e513d3a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/getdeepdub/static/js/2.de174552.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34dfbb2e14cbb55a69d6",
-    "url": "/getdeepdub/static/js/main.b0f86acf.chunk.js"
+    "revision": "fc63040429c867d58504",
+    "url": "/getdeepdub/static/js/main.c0b7ff03.chunk.js"
   },
   {
     "revision": "37c52069883078ef6ff3",
